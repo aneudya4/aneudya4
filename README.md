@@ -3,19 +3,8 @@
 <!--
 **aneudya4/aneudya4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hello World 👋 It's [Aneudy!](https://aneudy.github.io/persona-page/)
-
 <br/>
-
 
 <a href="https://twitter.com/aneudya4">
 <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -24,7 +13,6 @@ Here are some ideas to get you started:
 <img align="left" alt="aneudy adames" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
-
 <br />
 
 Hi,I'm Aneudy Adames🙌, a Full Stack Developer❤✌
@@ -35,7 +23,7 @@ Hi,I'm Aneudy Adames🙌, a Full Stack Developer❤✌
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Studing Full Stack Development at Thinkful.
+  ## 🔭 I’m currently Studing Full Stack Development at Thinkful.
 - 🌱 I’m currently learning React.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
