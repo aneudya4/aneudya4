@@ -23,7 +23,7 @@ Hi,I'm Aneudy Adames🙌, a Full Stack Developer❤✌
 
 **Talking about Personal Stuffs:**
 
-  ## 🔭 I’m currently Studing Full Stack Development at Thinkful.
+  ### 🔭 I’m currently Studing Full Stack Development at Thinkful.
 - 🌱 I’m currently learning React.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
