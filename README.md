@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi,I'mAneudy Adakes🙌, a Web Developer,Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Aneudy Adames🙌, a Web Developer,Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
