@@ -6,6 +6,8 @@
 ### Hello World 👋 It's [Aneudy!](https://aneudy.github.io/persona-page/)
 <br/>
 
+
+- 📫 How to reach me: Any of the Social-Media Platform 
 <a href="https://twitter.com/aneudya4">
 <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -23,21 +25,39 @@ Hi,I'm Aneudy Adames🙌, a Full Stack Developer❤✌
 
 **Talking about Personal Stuffs:**
 
-  ### 🔭 I’m currently Studing Full Stack Development at Thinkful.
-- 🌱 I’m currently learning React.
-- 👯 Part of Developer Community.
+## 🔭 I'm currently learning Full Stack Development at Thinkful
+
+## 🧰 My Current Toolset
+- HTML5 / CSS3
+- Vanilla JS
+- jQuery
+
+
+## ✔️ I'm currently learning
+- TypeScript
+- React
+- PWA
+
+## 📡 Technologies on my Radar
+- Next.Js
+- AWS
+- Docker
+- Node
+- GraphQL
+- Gatsby
+
+## 👋 Reach out to me 
 - 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
+- 🖼️ Portfolio: [Visit](https://aneudya4.github.io/personal-page/)
+
+
 - ⚡ 
 - 📝[Portfolio](https://aneudya4.github.io/personal-page/)
 - ✨
 
 
 
-**Community**
-
-
-**Languages and Tools:**
+**My Passion:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
