@@ -35,10 +35,11 @@ Hi,I'm Aneudy Adames🙌, a Full Stack Developer❤✌
 - PWA
 
 ## 📡 Technologies on my Radar
+- Node
+- PostgreSQL
 - Next.Js
 - AWS
 - Docker
-- Node
 - GraphQL
 - Gatsby
 
