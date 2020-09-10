@@ -19,9 +19,9 @@ Hi,I'm Aneudy Adames🙌, a Full Stack Developer❤✌
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
-**Talking about Personal Stuffs:**
+## Talking about Personal Stuffs:
 
-## 🔭 I'm currently learning Full Stack Development at Thinkful
+ **🔭 I'm currently learning Full Stack Development at Thinkful**
 
 ## 🧰 My Current Toolset
 - HTML5 / CSS3
