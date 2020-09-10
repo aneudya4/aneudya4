@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi,I'm Aneudy Adames🙌, a Web Developer,Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Aneudy Adames🙌, a Full Stack Developer❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -61,4 +61,3 @@ Hi,I'm Aneudy Adames🙌, a Web Developer,Apart from that I love getting involve
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-![Aneudy's github stats](https://github-readme-stats.vercel.app/api?username=aneudya4&show_icons=true&hide_border=true)
