@@ -50,13 +50,6 @@ Hi,I'm Aneudy Adames🙌, a Full Stack Developer❤✌
 - 💬 Ask me about anything , Would love to answer them.✌
 - 🖼️ Portfolio: [Visit](https://aneudya4.github.io/personal-page/)
 
-
-- ⚡ 
-- 📝[Portfolio](https://aneudya4.github.io/personal-page/)
-- ✨
-
-
-
 **My Passion:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
