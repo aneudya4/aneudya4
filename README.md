@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello World 👋 It's [Saket!](https://aneudy.github.io/persona-page/)
+### Hello World 👋 It's [Aneudy!](https://aneudy.github.io/persona-page/)
 
 <br/>
 
