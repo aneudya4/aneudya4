@@ -25,20 +25,20 @@ Hi,I'm Aneudy Adames🙌, a Full Stack Developer❤✌
 
 **Talking about Personal Stuffs:**
 
-## 🔭 I'm currently learning Full Stack Development at Thinkful
+🔭 I'm currently learning Full Stack Development at Thinkful
 
-## 🧰 My Current Toolset
+ 🧰 My Current Toolset
 - HTML5 / CSS3
 - Vanilla JS
 - jQuery
 
 
-## ✔️ I'm currently learning
+ ✔️ I'm currently learning
 - TypeScript
 - React
 - PWA
 
-## 📡 Technologies on my Radar
+📡 Technologies on my Radar
 - Next.Js
 - AWS
 - Docker
@@ -46,7 +46,7 @@ Hi,I'm Aneudy Adames🙌, a Full Stack Developer❤✌
 - GraphQL
 - Gatsby
 
-## 👋 Reach out to me 
+ 👋 Reach out to me 
 - 💬 Ask me about anything , Would love to answer them.✌
 - 🖼️ Portfolio: [Visit](https://aneudya4.github.io/personal-page/)
 
