@@ -61,3 +61,7 @@ Hi,I'm Aneudy Adames🙌, a Full Stack Developer❤✌
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+![Aneudy's github stats](https://github-readme-stats.vercel.app/api?username=aneudya4&show_icons=true&hide_border=true)
+
