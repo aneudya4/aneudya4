@@ -25,7 +25,7 @@ Hi,I'm Aneudy Adames🙌, a Full Stack Developer❤✌
 
 ## 🧰 My Current Toolset
 - HTML5 / CSS3
-- Vanilla JS
+- JavaScript
 - jQuery
 
 
