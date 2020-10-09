@@ -27,12 +27,17 @@ Hi,I'm Aneudy Adames🙌, a Full Stack Developer❤✌
 - HTML5 / CSS3
 - JavaScript
 - jQuery
+- React
+- TypeScript
+
+
 
 
 ## ✔️ I'm currently learning
-- TypeScript
-- React
 - PWA
+- Redux
+- Node
+- Express
 
 ## 📡 Technologies on my Radar
 - Node
