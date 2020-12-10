@@ -4,7 +4,7 @@
 <br/>
 
 - 📫 How to reach me: Any of the Social-Media Platform 
-<a href="https://twitter.com/aneudya4">
+<a href="https://twitter.com/aneudya4" style="color:blue;">
 <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/mwlite/aneudy-adames-600441158/">
