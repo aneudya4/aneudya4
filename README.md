@@ -1,6 +1,6 @@
 
 
-## Hello World 👋 It's [Aneudy!](https://aneudy.github.io/persona-page/)
+## Hello World 👋 It's [Aneudy!](https://aneudyadames.dev/)
 <br/>
 
 - 📫 How to reach me: Any of the Social-Media Platform 
