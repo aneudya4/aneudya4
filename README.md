@@ -21,14 +21,16 @@ Hi,I'm Aneudy Adames🙌, a Full Stack Developer❤✌
 
 ## Talking about Personal Stuffs:
 
- **🔭 I'm currently learning Full Stack Development at Thinkful**
-
 ## 🧰 My Current Toolset
 - HTML5 / CSS3
 - JavaScript
 - jQuery
 - React
 - TypeScript
+- Node
+- Express
+- PostgreSQL
+
 
 
 
@@ -36,12 +38,9 @@ Hi,I'm Aneudy Adames🙌, a Full Stack Developer❤✌
 ## ✔️ I'm currently learning
 - PWA
 - Redux
-- Node
-- Express
+
 
 ## 📡 Technologies on my Radar
-- Node
-- PostgreSQL
 - Next.Js
 - AWS
 - Docker
